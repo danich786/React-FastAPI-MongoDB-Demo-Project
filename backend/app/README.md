@@ -1,4 +1,4 @@
-# Ramped JobSearch APP Backend
+# JobSearch APP Backend
 
 ## Setup
 

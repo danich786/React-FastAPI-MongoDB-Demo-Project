@@ -1,4 +1,4 @@
-# Ramped_JS_Frontend
+# Frontend
 
 ## Setup
 
